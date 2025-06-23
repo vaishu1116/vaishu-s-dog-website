@@ -1,0 +1,46 @@
+.husky1{
+    float: left;
+    height: 250px;
+    margin: 20px;
+}
+.husky2{
+    margin: 20px;
+    float: right;
+    height: 200px;
+}
+.husky3{
+    float: left;
+    height: 250px;
+    margin: 20px;
+}
+.husky4{
+    float: right;
+    height: 250px;
+}
+.husky5{
+    float: left;
+    height: 300px;
+    margin: 20px;
+}
+.husky6{
+    float: right;
+    margin: 20px;
+    height: 200px;
+    padding-left: 100px;
+}
+.husky7{
+    float:left;
+    height: 300px;
+    margin: 20px;
+}
+li{
+    color: black;
+    margin-left: 50px;
+}
+h3{
+    text-align: left;
+    
+}
+.sec1{
+    border-bottom:solid rgb(139, 171, 59);
+}

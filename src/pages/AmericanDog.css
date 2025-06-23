@@ -1,0 +1,70 @@
+.dog{
+    float: right;
+    width: 250px;
+    height: 250px;
+    background-repeat: no-repeat;
+    margin: 30px;
+   
+}
+.p1{
+    margin-top: 30px;
+}
+.page{
+    
+    background-color: aquamarine;
+}
+h1{
+    text-align: center;
+}
+.dog1{
+    float: right;
+    align-items: left;
+    margin: 20px;
+}
+.dog2{
+    float:left;
+    margin-left: 30px;
+    margin-right: 20px;
+}
+#history{
+   
+    margin-left: 100px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+details{
+    background-color: #dbf18c;
+    border-radius: 8px;
+    margin-bottom: 10px;
+    padding: 12px;
+    cursor: pointer;
+    border: 1px solid #120303;
+}
+summary{
+    font-size: 16px;
+    font-weight: bold;
+    outline: none;
+
+}
+summary::-webkit-details-marker{
+    color:white;
+}
+details[open]{
+    background-color: #ccea86;
+}
+.answer{
+    margin-top:10px;
+    color:#0a0202;
+    font-size: 17px;
+}
+.dog-line1{
+    float: right;
+    height: 120px;
+    width: 140px;
+    margin-top: -40px;
+}
+strong{
+    color:rgb(91, 91, 195);
+    text-decoration: underline;
+}

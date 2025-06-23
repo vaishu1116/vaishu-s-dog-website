@@ -1,0 +1,56 @@
+.pom-pic1{
+    float:left;
+    margin: 20px;
+    height: 180px;
+    
+}
+.pom-pic2{
+    margin: 20px;
+    float: right;
+    height: 200px;
+}
+.pom-pic3{
+    margin: 20px;
+    height: 200px;
+}
+.pom-pic4{
+    height: 200px;
+   
+}
+.pom-pic5{
+    height: 200px;
+    margin: 20px;
+}
+.pom-pic6{
+    margin-right: 20px;
+    height: 200px;
+}
+.pom-pic7{
+    height: 210px;
+    margin-right: 20px;
+}
+.pom-pic8{
+    height: 240px;
+}
+.pom-pic9{
+    height: 210px;
+  
+  margin-left: 20px;
+}
+.pom-pic10{
+    height: 350px;
+    margin: 20px;
+    float: left;
+}
+.pom-pic11{
+    float:right;
+    height: 250px;
+    margin: 20px;
+}
+h3{
+    margin-left: 40px;
+    color: rgb(13, 13, 101);
+}
+li{
+    color: rgb(10, 10, 114);
+}

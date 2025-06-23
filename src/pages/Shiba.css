@@ -1,0 +1,33 @@
+.shiba1{
+    margin: 20px;
+    float: right;
+    height: 250px;
+}
+.shiba2{
+    float:left;
+    margin: 20px;
+}
+.shiba3{
+    float:right;
+    margin: 20px;
+    height: 200px;
+}
+.shiba4{
+    height: 300px;
+    margin: 20px;
+    float: left;
+}
+.shiba5{
+    height: 250px;
+    margin: 20px;
+}
+.shiba6{
+    height: 250px;
+    margin-top: 30px;
+    
+}
+.shiba7{
+    height: 200px;
+    float: left;
+    margin: 20px;
+}

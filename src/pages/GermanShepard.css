@@ -1,0 +1,40 @@
+.pic{
+    height: 200px;
+    float: left;
+    margin: 20px;
+}
+.pic1{
+    height: 300px;
+    float: right;
+    margin-right: 20px;
+    margin-left: 10px;
+}
+.pic2{
+    float:left;
+    margin: 20px;
+}
+h2{
+    text-align: center;
+    font-family: time and roman;
+    
+}
+.pic3{
+    height: 200px;
+    margin: 20px;
+    float: left;
+}
+.name{
+    text-align: left;
+}
+.pic4{
+    height: 250px;
+    width: 250px;
+}
+.pic5{
+    height: 200px;
+    width: 300px;
+    margin-left: 50px;
+}
+.pic6{
+    float: right;
+}
