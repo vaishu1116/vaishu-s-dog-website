@@ -9,6 +9,7 @@ h1{
 .nav{
  
   margin: 20px;
+ 
 }
 .li1{
   margin-left: 10px;
@@ -17,4 +18,5 @@ h1{
   background-color: rgb(234, 241, 205);
   color: black;
   text-decoration: underline;
+  
 }
