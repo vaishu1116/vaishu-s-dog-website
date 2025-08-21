@@ -5,6 +5,7 @@ h1{
   -webkit-background-clip: text;
   color: transparent;
   font-size: 70px;
+  margin-top: 15px;
 }
 * {
     margin: 0%;
